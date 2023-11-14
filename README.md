@@ -1,5 +1,5 @@
 # Hi, I'm Himmel
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=ABD200&random=false&width=450&lines=Backend+Golang+Developer..+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=ABD200&random=false&width=470&lines=Backend+Golang+Developer..)](https://git.io/typing-svg)
 
 <div style="display: inline-flex">
     <img src="https://github-readme-stats.vercel.app/api?username=himmel520&rank_icon=github&theme=merko" alt="GitHub Stats" style="margin-right: 20px;">
