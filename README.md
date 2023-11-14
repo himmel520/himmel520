@@ -1,6 +1,6 @@
 <header>
   <h1>Hi, I'm Himmel</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=ABD200&random=false&width=450&lines=Backend+Golang+Developer.." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=ABD200&random=false&width=450&lines=Backend+Golang+Developer..+" alt="Typing SVG" /></a>
   <div style="display: inline-flex">
     <img src="https://github-readme-stats.vercel.app/api?username=himmel520&rank_icon=github&theme=merko" alt="GitHub Stats" style="margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmel520&layout=compact&theme=merko" alt="Top Languages">
