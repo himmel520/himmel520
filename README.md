@@ -1,19 +1,19 @@
 # Hi, I'm Himmel
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=ABD200&repeat=false&random=false&width=470&lines=Backend+Golang+Developer..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=b5dfff&repeat=false&random=false&width=470&lines=Backend+Golang+Developer..)](https://git.io/typing-svg)
 
 <div style="display: inline-flex">
-    <img src="https://github-readme-stats.vercel.app/api?username=himmel520&rank_icon=github&theme=merko" alt="GitHub Stats" style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmel520&layout=compact&theme=merko" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=himmel520&rank_icon=github&theme=prussian" alt="GitHub Stats" style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmel520&layout=compact&theme=prussian" alt="Top Languages">
 </div>
 
 <h2>My Pride</h2>
 <a href="https://github.com/himmel520/notebook_store">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himmel520&repo=notebook_store&title_color=abd200&icon_color=2b3611&text_color=67b587&bg_color=0a0f0b" alt="Customized Card">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himmel520&repo=notebook_store&theme=prussian" alt="Customized Card">
 </a>
 
 
 <h4>Github Profile Views</h4>
-<img src="https://profile-counter.glitch.me/himmel520/count.svg">
+<img src="https://komarev.com/ghpvc/?username=himmel520&color=182f45">
 
 <h2>Languages and tools</h2>
 <img src="https://skillicons.dev/icons?i=go,python,react,bootstrap,docker,vscode" alt="Golang Python React Bootstrap Docker VSC">
