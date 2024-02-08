@@ -6,10 +6,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmel520&layout=compact&theme=nord" alt="Top Languages">
 </div>
 
+<!--
 <h2>My Pride</h2>
 <a href="https://github.com/himmel520/notebook_store">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=himmel520&repo=notebook_store&theme=nord" alt="Customized Card">
 </a>
+-->
 
 <h2>LeetCode</h2>
 <img src="https://leetcard.jacoblin.cool/himmel520?ext=contest&show_rank=true&theme=nord">
