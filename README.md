@@ -1,28 +1,25 @@
 # Hi, I'm Himmel
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=81a1c1&repeat=false&random=false&width=470&lines=Backend+Golang+Developer..)](https://git.io/typing-svg)
-
+<!-- 
 <div style="display: inline-flex">
     <img src="https://github-readme-stats.vercel.app/api?username=himmel520&rank_icon=github&theme=nord" alt="GitHub Stats" style="margin-right: 20px; "border":0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmel520&layout=compact&theme=nord" alt="Top Languages">
 </div>
-
-<!--
-<h2>My Pride</h2>
-<a href="https://github.com/himmel520/notebook_store">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himmel520&repo=notebook_store&theme=nord" alt="Customized Card">
-</a>
--->
-
 <h2>LeetCode</h2>
 <img src="https://leetcard.jacoblin.cool/himmel520?ext=contest&show_rank=true&theme=nord">
+-->
 
-<h2>Languages and tools</h2>
-<img src="https://skillicons.dev/icons?i=go,python,react,bootstrap,docker,vscode" alt="Golang Python React Bootstrap Docker VSC">
+## Languages and tools
+<img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,kubernetes,vscode,apple" alt="Golang Python React Bootstrap Docker VSC">
 
-<h2>Databases</h2>
-<img src="https://skillicons.dev/icons?i=postgres,redis" alt="Postgres Redis">
+## Contact
+<a href="https://t.me/Himmel404">
+     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Telegram_white.svg" title="telegram" alt="telegram" width="40" height="40"/>&nbsp;
+</a>
+<a href="mvmarina063@gmail.com">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Gmail_white.svg" title="Gmail" alt="Gmail" width="40" height="40"/>&nbsp;
+</a>
 
-<h4>Github Profile Views</h4>
+#### Github Profile Views
 <img src="https://komarev.com/ghpvc/?username=himmel520&color=182f45">
 
 <!--
