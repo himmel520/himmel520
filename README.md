@@ -15,7 +15,7 @@
 <a href="https://t.me/Himmel404">
      <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Telegram_white.svg" title="telegram" alt="telegram" width="40" height="40"/>&nbsp;
 </a>
-<a href="mvmarina063@gmail.com">
+<a href="mailto:mvmarina063@gmail.com">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Gmail_white.svg" title="Gmail" alt="Gmail" width="40" height="40"/>&nbsp;
 </a>
 
