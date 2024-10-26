@@ -9,7 +9,7 @@
 -->
 
 ## Languages and tools
-<img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,kubernetes,vscode,apple" alt="Golang Python React Bootstrap Docker VSC">
+<img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,kubernetes,kafka" alt="Golang Python React Bootstrap Docker VSC">
 
 ## Contact
 <a href="https://t.me/Himmel404">
